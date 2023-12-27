@@ -26,7 +26,7 @@
 
 - https://habr.com/ru/articles/259055/
 
-Список выполненных задач:
+Список выполненных задач:\
 *Authentication using VK and Yandex has been removed\
 *Sensitive information was hidden (application.yaml)\
 *The method com.javarush.jira.bugtracking.attachment.FileUtil#upload has been refactored\
