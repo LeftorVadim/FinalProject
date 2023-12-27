@@ -33,8 +33,8 @@ public class FileUtil {
                     throw new IllegalArgumentException("Failed to upload file " + multipartFile.getOriginalFilename());
                 }
             }
-        } catch (IOException e) {
-            e.printStackTrace();
+        } catch (IOException ex) {
+            ex.printStackTrace();
         }
     }
 
